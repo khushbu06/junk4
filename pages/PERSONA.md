@@ -22,9 +22,10 @@ Horse riding, tap dancing
 bar, art galleries, shopping 
 
 ## ACTIVITY
-
-Pick a name
-Include a picture
+Activity | Answer
+------------ | -------------
+Pick a name | --------
+Include a picture | ---------
 Demographics
 Profession
 Family status and roles
