@@ -1,12 +1,14 @@
 ---
-#title: PERSONA BY ME
 ---
-## DESCRIPTION
+layout: page
+ PERSONA
+
+## Description
 A description of a character that the product will be designed for represents the needs of larger groups of users, in terms of their motivations, expectations and goals 
 
 Persona is An archetype, a stereotype, …Fictitious but real
 
-## EXAMPLE
+## Example                                             
 
 Sandra, 27, single
 Liberal arts, Photography 
@@ -20,7 +22,7 @@ Music: jazz, blouse, rock
 Horse riding, tap dancing
 bar, art galleries, shopping 
 
-## ACTIVITY
+## Activity
 
 Pick a name
 Include a picture
@@ -32,9 +34,9 @@ Hobbies/ entertainments
 Values, goals, motivations
 .....
 
-## SLIDES
+## Slides
 NEW SLIDES
 
 
-## COMMENT
+## COMMENT :0
 
